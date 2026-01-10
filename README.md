@@ -8,6 +8,9 @@ and focuses on game logic, data structures, and user interaction design.
 
 ```md
 📄 Full rules and scoring breakdown available in `/docs/game-play.md`
+![Game start screen](docs/initial-game-state.png)
+![Game end screen](docs/end-game-state.png)
+
 
 # Tech 
 
